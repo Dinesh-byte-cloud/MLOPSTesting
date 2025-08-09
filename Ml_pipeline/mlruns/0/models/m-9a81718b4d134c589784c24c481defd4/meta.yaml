@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DINESH%20KRISHNA/OneDrive/Desktop/MLops/TruthWatch/Ml_pipeline/mlruns/0/models/m-9a81718b4d134c589784c24c481defd4/artifacts
+creation_timestamp: 1754542667840
+experiment_id: '0'
+last_updated_timestamp: 1754542670995
+model_id: m-9a81718b4d134c589784c24c481defd4
+model_type: null
+name: model
+source_run_id: 299c516191ef4f12931237c595e993b0
+status: 2
+status_message: null
