@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DINESH%20KRISHNA/OneDrive/Desktop/MLops/mlruns/0/7b298a6a7dfd496284a5c8675e3daa17/artifacts
+end_time: 1754622037841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b298a6a7dfd496284a5c8675e3daa17
+run_name: clumsy-sponge-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754622031816
+status: 3
+tags: []
+user_id: DINESHKRISHNA

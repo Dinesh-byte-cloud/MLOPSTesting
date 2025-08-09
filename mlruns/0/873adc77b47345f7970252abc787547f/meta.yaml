@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DINESH%20KRISHNA/OneDrive/Desktop/MLops/mlruns/0/873adc77b47345f7970252abc787547f/artifacts
+end_time: 1754622554923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 873adc77b47345f7970252abc787547f
+run_name: thundering-fly-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754622550883
+status: 3
+tags: []
+user_id: DINESHKRISHNA

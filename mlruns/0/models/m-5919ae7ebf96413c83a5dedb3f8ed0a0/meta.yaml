@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DINESH%20KRISHNA/OneDrive/Desktop/MLops/mlruns/0/models/m-5919ae7ebf96413c83a5dedb3f8ed0a0/artifacts
+creation_timestamp: 1754622551554
+experiment_id: '0'
+last_updated_timestamp: 1754622554817
+model_id: m-5919ae7ebf96413c83a5dedb3f8ed0a0
+model_type: null
+name: model
+source_run_id: 873adc77b47345f7970252abc787547f
+status: 2
+status_message: null

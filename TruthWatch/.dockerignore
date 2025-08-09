@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd
+venv/
+mlruns/
+.DS_Store
+
+#This reduces build time and avoids unnecessary files being copied into the Docker image.
